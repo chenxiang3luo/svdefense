@@ -26,7 +26,7 @@ Then you can navigate to the folder `IG_attack` and get the metric results using
 python cal_matric.py
 ```
 
-### Experiment E2: perturbation-based defense performance under IG attack
+### Experiment E2: Training perturbation-based defense performance under IG attack
 Taking the PRECODE as an example, you can directly navigate to the folder `scripts` and run 
 ```
 /bin/bash defense_PRECODE.sh
